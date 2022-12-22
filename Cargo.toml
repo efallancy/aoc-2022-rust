@@ -1,0 +1,8 @@
+[package]
+name = "aoc-2022-rust"
+version = "0.1.0"
+edition = "2021"
+description = "Advent of Code - 2022"
+license = "MIT"
+
+[dependencies]
